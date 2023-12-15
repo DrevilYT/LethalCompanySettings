@@ -4,6 +4,10 @@ A config of Lethal Company for low-end devices.
 # Info
 To use this config, you need BepinEx and the HDLethalCompany mod installed.
 
+# Requirements
+- BepinEx
+- HDLethalCompany Mod
+
 # Links
 - BepinEx: https://github.com/BepInEx/BepInEx/releases
 - HDLethalCompany: https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/
