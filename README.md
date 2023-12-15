@@ -21,4 +21,4 @@ To use this config, you need BepinEx and the HDLethalCompany mod installed.
 # Credits
 - DrevilYT: Creator of this awesome config.
 - Sligili: Creator of the HDLethalCompany mod.
-- BepinEX: Creator of BepinEX (duh).
+- Bepis Injector Extendable: Creator of BepinEX (duh).
