@@ -7,6 +7,7 @@ To use this config, you need BepinEx and the HDLethalCompany mod installed.
 # Links
 - BepinEx: https://github.com/BepInEx/BepInEx/releases
 - HDLethalCompany: https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/
+- Raw Config File: https://drev.uk.to/thecompany/mods/hdlethalcompany/config/HDLethalCompany.cfg
 
 # Method 1
 - Get the file from releases.
