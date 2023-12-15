@@ -19,7 +19,19 @@ To use this config, you need BepinEx and the HDLethalCompany mod installed.
 - ren HDLethalCompany.cfg HDLethalCompany_default.cfg
 - curl -L -0 HDLethalCompany.cfg "https://drev.uk.to/thecompany/mods/hdlethalcompany/config/HDLethalCompany.cfg"
 
+# Extra Optimization
+- This doesn't require any mods.
+- Just go to your Steam library.
+- Right-click on the Lethal Company game and select properties.
+- At the launch options, type "-screen-width 1280 -screen-height 720"
+- Make sure you type it without the quotes or quoation marks (").
+- You can change the values to set a resolution in game.
+- The one I gave or put above is 720p.
+- If your game still lags, try this.
+- "-screen-width 800 -screen-height 600"
+- Again, make sure you type it without the quotes or quoation marks (").
+
 # Credits
-- DrevilYT: Creator of this awesome config.
+- DrevilYT: Creator of this awesome config and repo.
 - Sligili: Creator of the HDLethalCompany mod.
 - Bepis Injector Extendable: Creator of BepinEX (duh).
