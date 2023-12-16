@@ -14,7 +14,7 @@ To use this config, you need BepinEx and the HDLethalCompany mod installed.
 - Raw Config File: https://drev.uk.to/thecompany/mods/hdlethalcompany/config/HDLethalCompany.cfg
 
 # Method 1
-- Get the file from releases.
+- Get the file from releases. (or from the raw config file link above?
 - Copy or move it to (your game directory)\BepInEx\config
 - If it asks you what you want to do with the old file, then select replace.
 
