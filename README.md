@@ -1,5 +1,5 @@
 # OUTDATED
-[NOW MOVED TO HERE](https://github.com/DrevilYT/LC_Utilities) as of 18/1/2024
+[NOW MOVED TO HERE](https://github.com/DrevilYT/LC_Utilities) as of 18/1/2024.
 
 # LethalCompanySettings
 A config of Lethal Company for low-end devices.
